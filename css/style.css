@@ -314,7 +314,8 @@ body {
 	margin: 0px 0px 0px 5px;
 }
 .card-dishes__rating {
-	
+	display: inline-block;
+	margin: 0px 41px 0px 0px;
 }
 .card-dishes__rating img {
 	display: inline-block;
@@ -329,7 +330,7 @@ body {
 	line-height: 250%;
 	letter-spacing: 0.76px;
 	color: #B3B3B3;
-	margin: 0px 41px 0px 9px;
+	margin: 0px 0px 0px 9px;
 }
 .card-dishes__link {
 	display: inline-block;
